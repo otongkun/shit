@@ -1,0 +1,2 @@
+# shit
+finding script rg
